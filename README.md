@@ -8,6 +8,6 @@ I build AI/ML systems — computer vision, re-identification, and LLM-based appl
 - 🤖 RAG pipelines — grounding LLM responses in retrieved documents  
 - ⚛️ Frontend — React.js applications
 
-**Currently** finishing my M.E. thesis on wildlife re-identification · Targeting AI/ML roles
+**Currently** Targeting AI/ML roles
 
-📫 priyax40@gmail.com · 🌐 [LinkedIn](your-linkedin-url)
+📫 priyax40@gmail.com · 🌐 [LinkedIn](www.linkedin.com/in/priyadharshini-g-889541275)
